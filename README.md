@@ -19,7 +19,7 @@ Tras desarrollar la optimización de márgenes para mi propia empresa y ver el i
 
 ## 🚀 Proyectos Destacados 
 
-- 🚛 **[Simulación PYME Residuos: Optimización de Márgenes](./analisis-tarifas-pyme)**  
+- 🚛 **[Simulación PYME Residuos: Optimización de Márgenes](https://github.com/Alexandra-Ortega/analisis-tarifas-pyme)**  
   *¿Qué pasa cuando una PYME de residuos fija sus tarifas "a ojo" y depende peligrosamente de un solo cliente?*  
   Simulación analítica modelada a partir de los problemas reales de gestión de mi entorno:  reestructuración completa del modelo de precios (alquiler fijo, costes de transporte por km y bonificaciones por materia prima) para garantizar la rentabilidad y cuidar al cliente clave.
 
